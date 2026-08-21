@@ -258,8 +258,9 @@ function Index() {
           </p>
         </div>
 
-        <div className="mt-12">
-          <Video id="ofcp4UOOXl4" title="Episode 6: Coming Together To Overcome Magic" />
+        div className="mt-12 space-y-6">
+          <Video id="vXu_-LhEqLE" title="How to Perform Ruqyah Over Yourself & Family, Part 1/2" />
+          <Video id="liz1MrkFFq0" title="How to Perform Ruqyah Over Yourself & Family, Part 2/2" />
         </div>
       </main>
 
