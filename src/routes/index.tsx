@@ -3,7 +3,7 @@ import { createFileRoute } from "@tanstack/react-router";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Calaamada Sixirka Iyo Sixiroolaha" },
+      { title: "Calaamadaha Sixirka Iyo Sixiroolaha" },
       {
         name: "description",
         content:
@@ -265,7 +265,7 @@ function Index() {
       </main>
 
       <footer className="border-t border-border py-10 text-center text-sm text-muted-foreground">
-        © Calaamada Sixirka. All rights reserved. Design:{" "}
+        © Calaamadaha Sixirka. All rights reserved. Design:{" "}
         <a className="underline underline-offset-4" href="https://html5up.net/">
           HTML5 UP
         </a>
