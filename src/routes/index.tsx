@@ -85,176 +85,127 @@ function Index() {
           The Magic of the West: My Experience Dealing with Foreign People Who
           Practice Sorcery
         </h2>
-        <p className="mt-4 text-lg font-semibold text-muted-foreground">
-          Magic in the West: My Experiences with Foreign But Mainly Somali
-          Practitioners
-        </p>
+        <p className="mt-4 text-lg font-semibold text-muted-foreground">Algabeyre</p>
 
-        <h3 className="section-heading">Introduction: A Lesson I Learned in 2010</h3>
+        <h3 className="section-heading">Dedication</h3>
+        <div className="prose-body">
+          <p>To those who refuse to let the fog of superstition obscure the clarity of reason.</p>
+          <p>And to my brother.</p>
+        </div>
+
+        <h3 className="section-heading">Table of Contents</h3>
+        <div className="prose-body">
+          <ol className="list-decimal pl-6">
+            <li><a className="underline underline-offset-4" href="#author-biography">Author Biography</a></li>
+            <li><a className="underline underline-offset-4" href="#introduction">Introduction: A Lesson I Learned in 2010</a></li>
+            <li><a className="underline underline-offset-4" href="#chapter-1">Chapter 1: The Birmingham Man — Fragments of an Egyptian Lineage</a></li>
+            <li><a className="underline underline-offset-4" href="#chapter-2">Chapter 2: The Cab Office — An Exercise in Social Engineering</a></li>
+            <li><a className="underline underline-offset-4" href="#chapter-3">Chapter 3: The Siege of Subagle — The Mechanics of Dispossession</a></li>
+            <li><a className="underline underline-offset-4" href="#chapter-4">Chapter 4: Reflections — The Rationalist's Defense</a></li>
+          </ol>
+        </div>
+
+        <h3 id="author-biography" className="section-heading">Author Biography</h3>
         <div className="prose-body">
           <p>
-            In 2010, I went through an experience that deeply affected my trust
-            in people. During a brief visit to Ethiopia, I was introduced to a
-            woman by people I already knew and trusted. Because the introduction
-            came from them, I believed the situation was genuine. If she had
-            been a complete stranger, I would never have trusted her, especially
-            in a place where I was only visiting for a short time.
-          </p>
-          <p>
-            I entered the marriage honestly, believing it was real. However, as
-            time passed, I began to realize that something was wrong. The
-            behavior of both the woman and the people who introduced her to me
-            did not add up. Eventually, I understood that I had been
-            deliberately deceived and that the marriage itself was part of a
-            plot.
-          </p>
-          <p>
-            What made the situation even more disturbing was the realization
-            that the woman was not entirely unfamiliar to me. I later remembered
-            seeing her twice before in the United Kingdom — once in Hackney in
-            2007 and again at Clapham Junction in 2008. This made me believe
-            that the entire situation had been planned long before my visit to
-            Ethiopia.
-          </p>
-          <p>
-            As soon as I became certain of the truth, I immediately cut off all
-            contact. Although the experience was painful, I chose to protect my
-            dignity and move on. This event taught me a lasting lesson about
-            trust, caution, and the importance of relying on clear evidence
-            rather than assumptions.
-          </p>
-          <p>
-            The same people who wanted to inject delusion into my life did not
-            get the end result they expected, as I am someone who only believes
-            logic. After that they descended on spells of magic, which I believe
-            started with the fake marriage actress — by the way, her name was
-            Amina or Samiira.
-          </p>
-          <p>
-            Living in Britain for over twenty years since 2006, I have
-            encountered several individuals who practice magic — some have even
-            used it on me. My story reveals surprising encounters and
-            observations about the forms of magic practiced by foreigners living
-            in the West.
+            Algabeyre is an investigative writer and committed rationalist who has lived in the West for over two decades. For much of that time, the author moved through the world with a standard, perhaps naive, secular confidence — until 2010. During a visit to Ethiopia that year, a calculated betrayal by those within a trusted social circle served as a brutal intellectual awakening. This "turning point" stripped away the comfort of unexamined trust and replaced it with a rigorous, evidence-based methodology for navigating the world. Today, Algabeyre focuses on documenting and deconstructing the psychological machinery of sorcery and superstition, treating these "mystical" practices not as supernatural phenomena, but as sophisticated systems of social and psychological manipulation.
           </p>
         </div>
 
-        <h3 className="section-heading">
-          I. Common Forms of Magic Among Foreign Born Individuals in the West
-        </h3>
+        <h3 id="introduction" className="section-heading">Introduction: A Lesson I Learned in 2010</h3>
         <div className="prose-body">
+          <h4 className="font-bold">The Ethiopia Betrayal</h4>
           <p>
-            <strong>
-              Personal Encounters: <em>Birmingham Man</em>, let us name him{" "}
-              <em>Alle Kood</em>
-            </strong>
-            <br />
-            From my arrival in Britain, I met people who openly admitted to
-            knowing magic. Notably, the Birmingham man claimed to have learned
-            magic in Egypt in 1980. He advised me to cast a spell on any woman I
-            like to get her married, otherwise he insisted I will never have a
-            family — and I vehemently rejected it.
+            In 2010, my intellectual armor was breached, not by a stranger, but by the very social structures I believed were my safeguard. While visiting Ethiopia, I was introduced to a woman through a network of intermediaries — individuals I had known for years and trusted implicitly. Because the introduction was "vetted" by these familiar faces, I bypassed my usual skepticism. I proceeded as if the situation were genuine, granting this woman access to my confidence that a stranger in a foreign land would never have received.
           </p>
           <p>
-            <strong>Usage of Magic:</strong> The primary reason these
-            individuals approached me appeared to be to cast spells. Magic, in
-            my experience, often involved subtle, mysterious acts rather than
-            public displays.
+            It was a textbook failure of logic. I had outsourced my judgment to my peers, a cognitive shortcut that nearly cost me everything. This was not a "spiritual" attack; it was an exploitation of social proximity.
           </p>
+          <h4 className="font-bold">The Impact of Trust</h4>
           <p>
-            <strong>Magic and Smell:</strong> In 2018, I discovered a type of
-            magic associated with smell, where a distinct scent would vanish
-            within seven seconds — suspected to be a magical practice.
+            The internal friction that followed the realization of this betrayal was transformative. I had to reckon with the fact that my own brain had been used against me. This wasn't magic — it was a vulnerability in the human hardware. When we trust the source of an introduction, we stop looking for the "tell." This incident forced a permanent psychological shift: I realized that the most dangerous deceptions are those that wear the mask of familiarity.
+          </p>
+          <h4 className="font-bold">London Sightings</h4>
+          <p>
+            The patterns I identified in Ethiopia did not stay in East Africa. Upon returning to London, I began to see the same markers, the same ritualized behaviors, and the same predatory social structures within the Somali diaspora. These were not isolated incidents of "culture"; they were a mobile, exported technology of control. The "sightings" in London confirmed that the theater of sorcery is global, but its script remains predictably consistent.
           </p>
         </div>
 
-        <h3 className="section-heading">II. Specific Incidents</h3>
+        <h3 id="chapter-1" className="section-heading">Chapter 1: The Birmingham Man (Alle Kood)</h3>
         <div className="prose-body">
-          <p className="font-bold">1. The Birmingham Man aka Alle Kood (2015)</p>
+          <h4 className="font-bold">Origins and Influences</h4>
+          <p>
+            The subject I refer to as the <strong>Birmingham Man</strong>, or <strong>Alle Kood</strong>, represents a specific, historical branch of this craft. His methodology is not ancient or "tribal" in the vague sense; it is a clinical application of magical traditions that proliferated in Egypt during the 1980s. By tracing his pedigree, we see that his "power" is merely a set of learned techniques passed down through a regional school of thought — a syllabus of superstition.
+          </p>
+          <h4 className="font-bold">Sensory Indicators</h4>
+          <p>
+            When I sat in the same room as this man, the air was heavy with what I call the <strong>"Magic of Smell."</strong> It wasn't just a scent; it was an olfactory invasion. He utilized specific, pungent resins and synthetic musks designed to create a sensory "anchor" — a way to overwhelm the subject's environment and command their attention before a single word was spoken.
+          </p>
+          <p>
+            Equally telling was his <strong>finger twitching</strong>. During our interaction, his hand maintained a rhythmic, ritualized tremor. To the believer, this is a sign of "connection" to the unseen; to the rationalist, it is a clear diagnostic marker. It is a pacing signal, a hypnotic tool used to keep the practitioner "on script" and to project an image of being a conduit for forces beyond his control. It is a performance of the nervous system.
+          </p>
+          <h4 className="font-bold">Categorization</h4>
           <ul>
-            <li>Origin: Buqdda Hiiraan, a region in Somalia</li>
-            <li>Circumstances: Searching for work and shelter</li>
-            <li>
-              Magic signs: strange habits — waking up at odd times and finger
-              twitching; unexplained odors lingering for days
-            </li>
-            <li>
-              Revelations: Later research linked these smells to certain types
-              of magic.
-            </li>
+            <li><strong>Historical Anchoring:</strong> Adherence to the 1980s Egyptian school of occultism.</li>
+            <li><strong>Diagnostic Markers:</strong> The use of ritualized finger tremors as a signal of activity.</li>
+            <li><strong>Sensory Dominance:</strong> A reliance on heavy, colonizing scents to facilitate psychological compliance.</li>
           </ul>
+        </div>
 
-          <p className="font-bold">2. The Second Man (2018)</p>
+        <h3 id="chapter-2" className="section-heading">Chapter 2: The Cab Office: An Exercise in Social Engineering</h3>
+        <div className="prose-body">
+          <h4 className="font-bold">The 2018 Incident</h4>
           <p>
-            Background: From Haradhere, a small village in the central Somalia
-            region of Mudug — let us call him <em>TiiTiin</em>, a cab driver and
-            coworker at the cab office where I was the operator.
+            In 2018, I witnessed the practical application of sorcery as a weapon of intimidation in the most mundane of settings: a London cab office. The subject, <strong>TiiTiin</strong>, didn't use a wand or a circle; he used information. He moved through the space with the practiced ease of a man who knows he can bypass the social barriers of others.
           </p>
+          <h4 className="font-bold">Background and Heritage</h4>
           <p>
-            Every other driver went home at about 3am as there were no customers
-            coming in. Because of the request of this specific driver we stayed
-            overnight at the cab office; he kept me there saying he would wait
-            one more hour, and then one more hour. At about 7 he said he would
-            work for Uber instead, so I closed the cab office and went home
-            around 7:30 and slept. I had no idea where he went then, but now I
-            know he was meeting a magician.
+            <strong>TiiTiin</strong> hails from <strong>Haradhere</strong>. This is a critical piece of data. Different regions produce different "brands" of sorcery. The Haradhere methodology is particularly focused on social leverage and the extraction of personal data to build a narrative of supernatural omniscience.
           </p>
+          <h4 className="font-bold">The Name Ritual</h4>
           <p>
-            He arrived home at around 9:15. I heard every movement from his
-            first step on the stairs, to the keys he put in the door lock, up
-            until he stood above me. While I heard everything, he called in the
-            name of my mother and touched me while I was screaming. I felt a
-            physical and verbal struggle but was unable to breathe. The man
-            muttered "maybe your magic has failed you today," indicating an
-            unsuccessful spell. Eventually I could breathe, and I reported the
-            event to my brother.
-          </p>
-
-          <p className="font-bold">3. The Third Man (2023–Present)</p>
-          <p>
-            Origin: From Adan Yabaal, sent from Mogadishu — let us call him{" "}
-            <em>Subagle</em> — with the sole purpose of displacing and replacing
-            me with a second sorcerer. He came under the pretext of working for
-            a year and a half, but stayed longer.
-          </p>
-          <p>
-            He is suspected of using magic to force me out of my brother's
-            house. His wife in Somalia questioned him on the phone about his
-            prolonged stay and why he is not coming back, and he responded:
-            "will I just come back without dispossessing?" I don't think he is
-            going to achieve his too-ambitious target, because I am not going
-            anywhere until the sum of money that has been claimed on my behalf
-            is paid to me.
-          </p>
-          <p>
-            He speaks only the Somali language with no formal education. He
-            doesn't seem to know the Quran, has no Mus'haf and doesn't read
-            Quran either; his sole skill seemed to be magic and sorcery, and
-            something called <em>duraan</em> which his specific tribe practises.
-            His unusual behavior includes staying awake four nights a week while
-            I sleep — but that is coming to an end now, as I too am going to be
-            awake, catching him off guard. He frequently speaks to a woman
-            living alone in the countryside, a remote area of a city called
-            Mahaday in the Middle Shabelle region of Somalia. She lives alone;
-            no doubt he calls her for instructions on how he has to cast the
-            spell of magic.
+            The core of <strong>TiiTiin's</strong> methodology is the ritualized acquisition of the <strong>mother's name</strong>. From a rationalist perspective, this is a masterstroke of psychological anchoring. In the cultures he preys upon, the mother's name is an intimate, private piece of data. By demanding it, the practitioner creates a "data bridge." If a victim believes that knowing their mother's name gives a stranger power over their soul, the practitioner no longer needs actual power — the victim's own fear will do the work for them. It is identity theft rebranded as mysticism.
           </p>
         </div>
 
-        <h3 className="section-heading">III. Reflections</h3>
+        <h3 id="chapter-3" className="section-heading">Chapter 3: The Siege of Subagle</h3>
         <div className="prose-body">
+          <h4 className="font-bold">Subject Origins</h4>
           <p>
-            Throughout these experiences, I have noticed a pattern of foreign
-            men practicing magic — often for manipulation or personal gain. My
-            research and observations suggest that magic based on scent, calling
-            out the name of the victim's mother, and personal rituals may be
-            prevalent among these mainly Somali sorcerers.
+            The practitioners involved in the events at Subagle trace their roots to <strong>Adan Yabaal</strong>. This regional school is far more visceral than the Egyptian or Haradhere models. It relies on blood and theater to enforce its will.
           </p>
-          <p className="font-bold">Conclusion</p>
+          <h4 className="font-bold">The Ritual of Sacrifice</h4>
           <p>
-            The mystery of why these practitioners remain close and continue
-            their practices is ongoing. I am left wondering: "Why does a witch
-            always sleep next to me?" The story continues…
+            The centerpiece of their practice is the <strong>saac/duraan</strong>, the ritual sacrifice of a cow. I observed the mechanics of this act with a cold eye. It is not an "offering" to a deity; it is a psychological spectacle. The shedding of blood in a communal setting serves to bind the participants in a shared trauma. It creates a "sunk cost" fallacy — once you have sacrificed an animal of value, you are psychologically committed to the delusion. You <em>must</em> believe it worked, or you have simply wasted a cow.
+          </p>
+          <h4 className="font-bold">Nocturnal Activity</h4>
+          <p>
+            The "Siege" was maintained through <strong>nocturnal vigils</strong>. These are not mere prayers; they are sleep-deprivation exercises. By remaining active through the night, the practitioners create a state of heightened suggestibility and "magical" intensity. It is a siege of the target's peace of mind, conducted under the cover of darkness to amplify the fear of the unknown.
+          </p>
+          <h4 className="font-bold">Objectives and Collaboration</h4>
+          <p>
+            The endgame is always <strong>dispossession</strong>. The goal is to strip the target of their assets, their social standing, and their mental autonomy. This is a coordinated effort. I identified a clear communicative link — likely via standard telecommunications disguised as "spiritual" connection — between the subject and a <strong>woman in Mahaday</strong>. They are partners in a predatory business, using the language of sorcery to facilitate what is essentially a long-con extortion racket.
+          </p>
+        </div>
+
+        <h3 id="chapter-4" className="section-heading">Chapter 4: Reflections</h3>
+        <div className="prose-body">
+          <h4 className="font-bold">Analysis of Weaponized Proximity</h4>
+          <p>
+            The thread that connects Ethiopia 2010 to London 2018 is what I define as <strong>Weaponized Proximity</strong>. These practitioners do not attack from the shadows; they attack from the dinner table. They use our cultural emphasis on hospitality and shared heritage as a crowbar to pry open our lives. By knowing your mother's name, your village, or your friends, they create a false sense of "divine knowledge." This is not magic — it is <strong>Information Asymmetry</strong>. They know more about you than you know about their true motives, and they use that gap to manufacture "miracles."
+          </p>
+          <h4 className="font-bold">Logic vs. Delusion</h4>
+          <p>
+            As an investigative memoirist, my conclusion is that sorcery is a psychological parasite. It requires a host who believes in it to survive. The only defense is a total commitment to evidence-based reasoning. I offer these final arguments as the ultimate shield:
+          </p>
+          <ul>
+            <li><strong>The Law of Mundane Causality:</strong> Every "ritual" marker — the smell, the twitch, the sacrifice — has a biological or sociological explanation. If you find the explanation, you kill the magic.</li>
+            <li><strong>Deconstruction of the Data Bridge:</strong> Knowing a mother's name is not a spiritual link; it is a piece of data acquired through social engineering. Treat it as a security breach, not a curse.</li>
+            <li><strong>The Spectacle of Cost:</strong> Rituals like the <em>saac/duraan</em> are designed to create emotional debt. Recognizing the theater of the sacrifice allows you to walk away from the "siege" without guilt.</li>
+            <li><strong>Systematic Skepticism:</strong> Trust is a vulnerability. In environments where sorcery is practiced, skepticism is not a character flaw — it is a survival mechanism.</li>
+          </ul>
+          <p>
+            Logic is the only light that does not cast a shadow. When we look at these "sorcerers" through the lens of reason, they cease to be powerful. They become what they have always been: desperate men playing with old tricks in a modern world.
           </p>
         </div>
 
