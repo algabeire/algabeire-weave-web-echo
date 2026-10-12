@@ -3,7 +3,7 @@ import { createFileRoute } from "@tanstack/react-router";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Calaamadaha Sixirka Iyo Sixiroolaha" },
+      { title: "Signs And Symptoms of Magic And Magician" },
       {
         name: "description",
         content:
@@ -44,11 +44,10 @@ function Index() {
       <section className="grid min-h-screen grid-cols-1 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.2fr)]">
         <div className="hero-panel flex flex-col items-center justify-center px-8 py-20 text-center lg:items-end lg:px-16 lg:text-right">
           <h1 className="max-w-xl text-5xl font-extrabold leading-[0.95] tracking-tight text-accent-foreground sm:text-6xl lg:text-7xl">
-            Calaamadaha Sixirka Iyo Sixiroolaha
+            Signs and Symptoms of Magic and Magician
           </h1>
           <p className="mt-10 max-w-md text-xs uppercase tracking-[0.25em] text-accent-foreground/80 sm:text-sm">
-            Halkan ka daawo casharo faahfaahinaya calaamadaha lagu garto sixirka
-            iyo sixiroolaha
+            Watch Islamic Luctures on How to Identify Signs And Symptoms.
           </p>
           <p className="mt-6 text-xs uppercase tracking-[0.25em] text-accent-foreground/70">
             <a className="underline underline-offset-4" href="#story">
